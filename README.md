@@ -97,6 +97,7 @@ tmux attach -t wechat-ai-bridge
 | `@d 你好` | DeepSeek | 🐳 |
 | `@q 你好` | 千问 | 🦄 |
 | `@g 你好` | Gemini | 💠 |
+| `@巴巴 你好` | 自定义助手 | 🐳巴巴 |
 | 发语音 | Claude（自动转文字）| 👾 |
 
 ### 内置模型
