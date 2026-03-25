@@ -7,7 +7,7 @@
 ## 特性
 
 - **Claude Code 免费用** — Max 订阅用户不花 API 钱
-- **多模型 @ 路由** — `@d` DeepSeek / `@q` 千问 / `@g` Gemini / `@k` Kimi...
+- **多模型 @ 路由** — 🐳`@d` DeepSeek / 🦄`@q` 千问 / 💠`@g` Gemini / 🌑`@k` Kimi / 🌱`@db` 豆包 / 🐚`@m` MiniMax / 🍬`@o` GPT / 🍥`@api` Claude
 - **自然语言创建助手** — "创建一个叫巴巴的deepseek助手"
 - **智能记忆系统** — 最近 10 轮 + 自动总结，不会聊久了变笨
 - **助手间对话** — Claude 可以协调多个助手对话
