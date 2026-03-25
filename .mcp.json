@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "wechat": {
+      "command": "node",
+      "args": [
+        "scripts/run-python.js",
+        "mcp_main.py"
+      ]
+    }
+  }
+}

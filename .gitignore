@@ -1,0 +1,41 @@
+# Environment
+.env
+.env.local
+
+# Sessions (contains user data)
+gateway_sessions/*.json
+!gateway_sessions/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+
+# WeChat credentials
+.wechat-agent/
+credentials.json
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+
+# Logs
+*.log
+/tmp/
+
+# Sync state
+sync_buf.txt
